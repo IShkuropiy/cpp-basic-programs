@@ -1,40 +1,4 @@
-// ------------- FILE HEADER -------------
-// Author: Iryna Shkuropii
-// Assignment:  A04 (CS161A)
-// Date: 07/ 18/2025
-// Description: This program asks the user to enter two phrases, checks
-// them and displays the message showing the results: whether the 
-// phrases are same or not, or if one contains other. 
-// Sources:  Assignment 4 specifications
 
-
-// ------------- ZYBOOKS SCORES -------------
-// https://learn.zybooks.com/zybook/PCCCS161ASummer25
-// Chapter: 4. Conditionals Part 2
-// Participation: 100%
-// Challenge: 100%
-// Labs: 100%
-
-
-// ------------- DISCORD POSTS -------------
-// https://discord.com/invite/URYKKf8YHm
-// Count: 0
-// Links (Optional): 
-
-
-// ------------- DESIGN DOCUMENT -------------
-// A. INPUT [yes/no]: yes
-// B. OUTPUT [yes/no]: yes
-// C. CALCULATIONS [yes/no]: 
-// D. LOGIC and ALGORITHMS [yes/no]: yes
-
-
-
-// ------------- TESTING -------------
-// PASS ALL GIVEN SAMPLE RUN TESTS [yes/no]: yes
-
-
-// ------------- CODE -------------
 #include <iostream>
 #include <string>
 using namespace std;
