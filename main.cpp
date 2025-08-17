@@ -1,38 +1,4 @@
-// ------------- FILE HEADER -------------
-// Author: Iryna Shkuropii
-// Assignment: 7
-// Date: 08/17/2025
-// Description: This program calculates student’s final grade based on assignment scores, 
-// midterm exam, and a final exam. The assignments count for 60% of the grade, and the midterm and final exam 20% each.
-// Then the program outputs both the final numeric score and the letter grade.
-// Sources: Assignment 7 specifications
 
-
-// ------------- ZYBOOKS SCORES -------------
-// https://learn.zybooks.com/zybook/PCCCS161ASummer25
-// Chapter: 7 Functions pass by value
-// Participation: 91%
-// Challenge: 57%
-// Labs: 100%
-
-
-// ------------- DISCORD POSTS -------------
-// https://discord.com/invite/URYKKf8YHm
-// Count: 0
-
-
-// ------------- DESIGN DOCUMENT -------------
-// A. INPUT [yes/no]: yes
-// B. OUTPUT [yes/no]: yes
-// C. CALCULATIONS [yes/no]: yes
-// D. LOGIC and ALGORITHMS [yes/no]: yes 
-
-
-// ------------- TESTING -------------
-// PASS ALL GIVEN SAMPLE RUN TESTS [yes/no]: yes 
-
-
-// ------------- CODE -------------
 #include <iostream>
 #include <iomanip> 
 #include <cmath>
