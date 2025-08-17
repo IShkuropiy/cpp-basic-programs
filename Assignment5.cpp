@@ -1,39 +1,4 @@
-// ------------- FILE HEADER -------------
-// Author: Iryna Shkuropii
-// Assignment: 5
-// Date: 08/03/2025
-// Description: This program helps calculate and summarise pizza party: 
-// how many pizzas are needed, the total cost (including tax and delivery) 
-// and keeps track of statistics like how many parties were entered, the average
-// number of pizzas per party, the largest number of people at a party. 
-// Sources: zoom lectures, zyBooks
 
-
-// ------------- ZYBOOKS SCORES -------------
-// https://learn.zybooks.com/zybook/PCCCS161ASummer25
-// Chapter: CS 161A: Loops Part 1
-// Participation: 100%
-// Challenge: 94%
-// Labs: 86%
-
-
-// ------------- DISCORD POSTS -------------
-// https://discord.com/invite/URYKKf8YHm
-// Count: 0
-
-
-
-// ------------- DESIGN DOCUMENT -------------
-// A. INPUT [yes/no]: yes
-// B. OUTPUT [yes/no]: yes 
-// C. CALCULATIONS [yes/no]: yes
-// D. LOGIC and ALGORITHMS [yes/no]: yes
-
-
-// ------------- TESTING -------------
-// PASS ALL GIVEN SAMPLE RUN TESTS [yes/no]: yes 
-
-// ------------- CODE -------------
 #include <iostream>
 #include <iomanip>
 #include <cmath> 
