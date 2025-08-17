@@ -1,37 +1,4 @@
-// ------------- FILE HEADER -------------
-// Author: Yryna Shkuropii
-// Assignment: 6
-// Date: 08/10/2025
-// Description: This program is coffee and tea vending machine simulator that accepts coins of 5, 10, or 25 cents, tracks the user’s balance, and allows selecting a drink for $0.25 each. The program processes purchases if there are enough coins or prompts for additional until the transaction is complete or canceled.
-// Sources: Assignment 6 specifications
 
-
-// ------------- ZYBOOKS SCORES -------------
-// https://learn.zybooks.com/zybook/PCCCS161ASummer25
-// Chapter: Loops 2
-// Participation: 100%
-// Challenge: 69%
-// Labs: 100%
-
-
-// ------------- DISCORD POSTS -------------
-// https://discord.com/invite/URYKKf8YHm
-// Count: 0
-
-
-// ------------- DESIGN DOCUMENT -------------
-// A. INPUT [yes/no]: yes
-// B. OUTPUT [yes/no]: yes 
-// C. CALCULATIONS [yes/no]: yes
-// D. LOGIC and ALGORITHMS [yes/no]: yes
-
-
-
-// ------------- TESTING -------------
-// PASS ALL GIVEN SAMPLE RUN TESTS [yes/no]: yes
-
-
-// ------------- CODE -------------
 #include <iostream>     
 #include <iomanip>     
 #include <limits> 
