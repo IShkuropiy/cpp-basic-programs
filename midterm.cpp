@@ -1,27 +1,4 @@
-// ------------- FILE HEADER -------------
-// Author: Iryna Shkuropii
-// Assignment: MIDTERM EXAM
-// Date: 07/27/2025
-// Description: This program replicate a competetion where three players collect rocks. 
-// The user is prompted to enter names of the players and number of rocks they collected.
-// Then the program validates rock counts, ranks the players and displays winners in order.
-// At the end the program calculates and displays the average number of rocks collected. 
-// Sources: instructor's github, zoom lectures
 
-// ------------- DESIGN DOCUMENT -------------
-// A. INPUT [yes/no]: yes
-// B. OUTPUT [yes/no]: yes
-// C. CALCULATIONS [yes/no]: yes
-// D. LOGIC and ALGORITHMS [yes/no]: yes
-// 
-
-
-// ------------- TESTING -------------
-// PASS ALL GIVEN SAMPLE RUN TESTS [yes/no]: yes
-// (Optional) Additional tests count:   5
-
-
-// ------------- CODE -------------
 #include <iostream>
 #include <iomanip>
 #include <string>
