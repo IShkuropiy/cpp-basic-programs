@@ -1,38 +1,4 @@
-// ------------- FILE HEADER -------------
-// Author: Iryna Shkuropii
-// Assignment: 7
-// Date: 08/17/2025
-// Description: This program calculates student’s final grade based on assignment scores, 
-// midterm exam, and a final exam. The assignments count for 60% of the grade, and the midterm and final exam 20% each.
-// Then the program outputs both the final numeric score and the letter grade.
-// Sources: Assignment 7 specifications
 
-
-// ------------- ZYBOOKS SCORES -------------
-// https://learn.zybooks.com/zybook/PCCCS161ASummer25
-// Chapter: 7 Functions pass by value
-// Participation: 91%
-// Challenge: 57%
-// Labs: 100%
-
-
-// ------------- DISCORD POSTS -------------
-// https://discord.com/invite/URYKKf8YHm
-// Count: 0
-
-
-// ------------- DESIGN DOCUMENT -------------
-// A. INPUT [yes/no]: yes
-// B. OUTPUT [yes/no]: yes
-// C. CALCULATIONS [yes/no]: yes
-// D. LOGIC and ALGORITHMS [yes/no]: yes 
-
-
-// ------------- TESTING -------------
-// PASS ALL GIVEN SAMPLE RUN TESTS [yes/no]: yes 
-
-
-// ------------- CODE -------------
 #include <iostream>
 #include <iomanip> 
 #include <cmath>
@@ -191,58 +157,6 @@ D. LOGIC and ALGORITHMS
 
 SAMPLE RUNS
 
-Welcome to my Final Grade Calculator!
-Please enter the following information and I will calculate your Final Numerical Grade and Letter Grade for you!
-The number of assignments must be between 0 and 10.
-All scores entered must be between 0 and 4.
-Enter the number of assignments (0 to 10): 6
-Enter score 1: 3.4 
-Enter score 2: 4 
-Enter score 3: 2.5 
-Enter score 4: 3.3
-Enter score 5: 3.1
-Enter score 6: 2.5
-Enter your midterm exam score: 3.5
-Enter your final exam score: 4
-Your Final Numeric score is 3.4
-Your Final Grade is A
-Thank you for using my Grade Calculator!
-
-
-Welcome to my Final Grade Calculator!
-Please enter the following information and I will calculate your Final Numerical Grade and Letter Grade for you!
-The number of assignments must be between 0 and 10.
-All scores entered must be between 0 and 4.
-Enter the number of assignments (0 to 10): 3
-Enter score 1: 3 
-Enter score 2: 4 
-Enter score 3: 2.5 
-Enter your midterm exam score: 2.5
-Enter your final exam score: 2
-Your Final Numeric score is 2.8
-Your Final Grade is B
-Thank you for using my Grade Calculator!
-
-
-Welcome to my Final Grade Calculator!
-Please enter the following information and I will calculate your Final Numerical Grade and Letter Grade for you!
-The number of assignments must be between 0 and 10.
-All scores entered must be between 0 and 4.
-Enter the number of assignments (0 to 10): 12
-Illegal Value! Please try again!!
-Enter the number of assignments (0 to 10): 5
-Enter score 1: 3.4 
-Enter score 2: 4 
-Enter score 3: 2.5 
-Enter score 4: 5.5
-Illegal Score! Please try again!
-Enter score 4: 3.5
-Enter score 5: 3.1
-Enter your midterm exam score: 3.5
-Enter your final exam score: 4
-Your Final Numeric score is 3.5
-Your Final Grade is A
-Thank you for using my Grade Calculator!
 
 
 */
