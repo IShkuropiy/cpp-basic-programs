@@ -155,8 +155,4 @@ D. LOGIC and ALGORITHMS
     DISPLAY letter grade
     GOODBYE
 
-SAMPLE RUNS
-
-
-
 */
