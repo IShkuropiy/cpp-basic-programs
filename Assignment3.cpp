@@ -1,14 +1,3 @@
-/******************************************************************************
-# Author:           Iryna Shkuropii
-# Assignment:       A03 (CS161A)
-# Date:             July 11, 2025
-# Description:      This program calculates a fare for ferry ride depends on quantity and age of people in the group, and also if they have a vehicle or not. 
-
-# Input:            (What the program asks for, and data type, e.g., string)
-# Output:           (Summary of messages displayed by the program)
-# Sources:          Assignment 3 specifications, Washington State Ferries Vehicle Reservations Home Page, 
-
-#******************************************************************************/
 
 #include <iostream>
 #include <iomanip>
