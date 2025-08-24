@@ -1,4 +1,3 @@
-/******************************************************************************/
 
 #include <iostream>
 #include <iomanip>
@@ -39,17 +38,3 @@ int main() {
     cout << "\nKeep eating Oreos! " <<endl;
 
 }
-
-/*
-DEFINE const int COOKIES_PER_SERV 
-DEFINE const int CALORIES 
-DECLARE int cookiesEaten 
-DECLARE double totalCalories 
-DECLARE double servings
-DISPLAY the welcome message
-PROMPT the user to enter oreos they eated
-CALCULATE servings = 
-CALCULATE total calories = servings * CALORIES
-DISPLAY output 
-
-*/
