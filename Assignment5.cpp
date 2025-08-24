@@ -174,46 +174,4 @@ WHILE again is 'Y'
 
 GOODBYE 
 
-SAMPLE RUNS
-
-Welcome to my Pizza Party Statistics program!
-
-Enter the number of people, average number of slices per person, and the cost of a pizza separated by a space: 10  2.6  10.50
-
-Number of pizzas: 4
-Cost of pizzas:  $42.00
-Tax:             $2.94
-Delivery:        $8.99
-Total Cost:      $53.93
-
-Do you want to enter more (y/n): y
-
-Enter the number of people, average number of slices per person, and the cost of a pizza separated by a space: 9   2.5   10.95
-
-Number of pizzas: 3
-Cost of pizzas:  $32.85
-Tax:             $2.30
-Delivery:        $7.03
-Total Cost:      $42.18
-
-Do you want to enter more (y/n): y
-
-Enter the number of people, average number of slices per person, and the cost of a pizza separated by a space: 14   3.2   14.95
-
-Number of pizzas: 6
-Cost of pizzas:  $89.70
-Tax:             $6.28
-Delivery:        $19.20
-Total Cost:      $115.17
-
-Do you want to enter more (y/n): n
-
-Number of entries: 3
-Total number of pizzas: 13
-Average number of pizzas: 4.3
-Maximum number of people: 14
-Maximum cost of pizzas: $115.17
-
-Thank you for using my program!
-
 */
