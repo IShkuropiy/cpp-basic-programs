@@ -1,8 +1,6 @@
 // A Portland Paints has determined that for every 110 square feet of wall space, one gallon of paint and eight hours of labor will be required. The company charges $35.00 per hour for labor. Write a modular program that allows the user to enter the length, width, and height of a room (in feet) and the price of the paint per gallon.
-
 // Calculate the square foot area of the four walls, do not add the floor or ceiling.
 // It should then display the following data:
-
 // The number of gallons of paint required (integer, round up to the next gallon)
 // The cost of the paint (double)
 // The number of labor hours (integer, round up all fractions of an hours to whole hour)
