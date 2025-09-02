@@ -1,19 +1,7 @@
-/******************************************************************************
-# Author:           Iryna Shkuropii
-# Assignment:       A1 (CS161A)
-# Date:             06/29/2025
-# Description:      This program will compute daily dosage of Griseofulvin 
-(antifungal medication) for guinea pid based on her weight.
-
-# Input:            (What the program asks for, and data type, e.g., string)
-# Output:           (Summary of messages displayed by the program)
-# Sources: 
-#******************************************************************************/
-
 #include <iostream>
 #include <iomanip>
 using namespace std;
-//main function
+
 int main() {
     //variables declared for compute todays dose of Griseofulvin
     int pigWeight = 0;
