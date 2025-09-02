@@ -1,24 +1,3 @@
-// ------------- FILE HEADER -------------
-// Author: Iryna Shkuropii
-// Assignment: FINAL EXAM
-// Date: 09/01/2025
-// Description: This program ask user for their daily miles (bike rides), 
-// tracks miles a user rides during this week, compares results with the goal they set 
-// and reports whether goal was met, misset or exceeded. 
-// Sources: instuctor's github
-
-
-// ------------- DESIGN DOCUMENT -------------
-// A. INPUT [yes/no]: yes 
-// B. OUTPUT [yes/no]: yes 
-// C. CALCULATIONS [yes/no]: yes
-// D. LOGIC and ALGORITHMS [yes/no]: yes
-
-
-// ------------- TESTING -------------
-// PASS ALL GIVEN SAMPLE RUN TESTS [yes/no]: yes
-
-// ------------- CODE -------------
 
 #include <iostream>
 using namespace std;
@@ -98,14 +77,6 @@ Program Description: This program ask user for their daily miles (bike rides),
 tracks miles a user rides during this week, compares results with the goal they set 
 and reports whether goal was met, misset or exceeded. 
 
-Design:
-A. INPUT
-goal as int 
-miles as int
-
-B. OUTPUT
-totalMiles as int
-
 C. CALCULATIONS
 totalMiles = day1 + day2 + day3 + day4 + day5 + day6 + day7; 
 day1 - day7 are not an actual variables, they just represent each loop cycle
@@ -152,68 +123,5 @@ MAIN
     ELSE
         DISPLAY (another) result
     ENDIF
-
-
-SAMPLE RUNS
-Welcome to my Miles Tracker program.
-How many miles do you want to ride this week? 50
-How many miles did you ride on Sunday? -9
-Miles must be 0 or greater!
-How many miles did you ride on Sunday? -3
-Miles must be 0 or greater!
-How many miles did you ride on Sunday? 0
-How many miles did you ride on Monday? 10
-How many miles did you ride on Tuesday? 10
-How many miles did you ride on Wednesday? 10
-How many miles did you ride on Thursday? 10
-How many miles did you ride on Friday? 10
-How many miles did you ride on Saturday? 0
-You rode 50 miles this week.
-Good job! You met your goal!
-Keep riding!
-
-
-
-Welcome to my Miles Tracker program.
-How many miles do you want to ride this week? 100
-How many miles did you ride on Sunday? 10
-How many miles did you ride on Monday? 10
-How many miles did you ride on Tuesday? 10
-How many miles did you ride on Wednesday? 10
-How many miles did you ride on Thursday? 10
-How many miles did you ride on Friday? 10
-How many miles did you ride on Saturday? 10
-You rode 70 miles this week.
-Uh oh! You missed your goal by 30 miles!
-Keep riding!
-
-
-
-Welcome to my Miles Tracker program.
-How many miles do you want to ride this week? 50
-How many miles did you ride on Sunday? 10
-How many miles did you ride on Monday? 10
-How many miles did you ride on Tuesday? 10
-How many miles did you ride on Wednesday? 10
-How many miles did you ride on Thursday? 10
-How many miles did you ride on Friday? 10
-How many miles did you ride on Saturday? 10
-You rode 70 miles this week.
-Great job! You exceeded your goal by 20 miles!
-Keep riding!
-
-
-
-Welcome to my Miles Tracker program.
-How many miles do you want to ride this week? 0
-No miles were tracked this week.
-Keep riding!
-
-
-
-Welcome to my Miles Tracker program.
-How many miles do you want to ride this week? -10
-No miles were tracked this week.
-Keep riding!
 
 */
